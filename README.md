@@ -372,6 +372,8 @@ NovelAI 法术解析: https://spell.novelai.dev/
 ### MJ关键词
 
 [https://prompt.noonshot.com/midjourney](https://prompt.noonshot.com/midjourney)
+- [PromptImage](https://promptimage.cloud)：Free AI image & video studio with a prompt library (signup credits, multi-model). Freemium
+- [GrokVideo Studio](https://grokvideogenerator.dev)：Independent web app for text/image-to-video via Grok Imagine API (Free Trial, 20 credits). Not an official …
 
 [https://huggingface.co/spaces/doevent/prompt-generator](https://huggingface.co/spaces/doevent/prompt-generator)
 
